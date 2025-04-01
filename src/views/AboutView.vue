@@ -17,4 +17,13 @@
       Module 11.
     </p>
   </div>
+  <GoBack />
 </template>
+
+<script>
+import GoBack from "@/components/GoBack.vue";
+
+export default {
+  components: { GoBack },
+};
+</script>

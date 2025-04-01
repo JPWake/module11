@@ -4,7 +4,7 @@
     <p>Sorry, This page doesn't exist!</p>
     <div id="button">
       <div id="vertical-center">
-        <button><router-link to="/"> &#8592; Go Back</router-link></button>
+        <GoBack />
       </div>
     </div>
   </div>
@@ -17,3 +17,11 @@ button {
   border-radius: 8px;
 }
 </style>
+
+<script>
+import GoBack from "@/components/GoBack.vue";
+
+export default {
+  components: { GoBack },
+};
+</script>
