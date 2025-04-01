@@ -7,7 +7,10 @@
     </p>
     <p>
       Get endless interesting facts at the tap of a button! Interested in the
-      details on how it was made? Check it out at <a href="https://api-ninjas.com/api/facts">https://api-ninjas.com/api/facts</a>
+      details on how it was made? Check it out at
+      <a href="https://api-ninjas.com/api/facts">
+        https://api-ninjas.com/api/facts</a
+      >
     </p>
     <p>
       This little website is made in Vue v3 to demonstrate materials learned in
